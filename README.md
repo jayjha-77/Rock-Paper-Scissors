@@ -1,5 +1,10 @@
 # Rock-Paper-Scissors
 - This is a simple demonstration of rock paper scissor game.
-- We can play this game on console against the computer.
+- it is a interective game between player V/s Computer.
 - math.random() used for computers choice.
-- code usages numbers for comparing of choice.
+- it uses mouse "click" as the event.
+
+## Tech used :-
+- HTML, CSS, JS
+- DOM manipulation
+- Little Flexbox algo.
